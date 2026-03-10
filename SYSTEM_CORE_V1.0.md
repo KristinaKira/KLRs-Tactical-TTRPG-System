@@ -784,3 +784,8 @@ Refer to Worlds Without Number sourcebook for complete social encounter rules.
 
 ---
 Note: This system was developed through a combination of mechanics observed in past campaigns, personal design contributions, and reconstruction from memory. While influenced by collaborative tabletop experiences, the specific implementation and organization represents original work.
+
+
+**© 2026 Kristina Leticia Rodriguez. All Rights Reserved.**
+
+This system is currently in development. If you'd like to use, modify, or distribute this work, please contact the author.
